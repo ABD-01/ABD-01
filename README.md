@@ -2,7 +2,7 @@
   <a href="https://abd-01.github.io/mQnWbEvRcTxYzU/" target="_blank">
     <img src="https://github.com/ABD-01/ABD-01/blob/master/dino.png" alt="" width="100%" height="70%">
   </a>
-  <a href="https://abd-01.github.io/mQnWbEvRcTxYzU/">Reload this page</a>
+  <a href="https://abd-01.github.io/mQnWbEvRcTxYzU/">Play Again</a>
 </div>
 
 <!--
