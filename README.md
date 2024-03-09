@@ -71,3 +71,6 @@ Coding with a passion for hardware – because great software extends beyond the
 <a href="https://github.com/ABD-01/Android-Speech-Controlled-Assistance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Android-Speech-Controlled-Assistance&theme=transparent" /></a>&emsp;
 <a href="https://github.com/ABD-01/Color-Reflex-Android-Studio-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Color-Reflex-Android-Studio-Project&theme=transparent" /></a>
 </div>
+
+<br><br>
+![](https://komarev.com/ghpvc/?username=ABD-01)
