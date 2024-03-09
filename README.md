@@ -39,35 +39,35 @@ Coding with a passion for hardware – because great software extends beyond the
 # Projects
 ### 🚀 Noteworthy Mention
 <div width="100%" align="left">
-<a href="https://github.com/IvLabs/Face-Unlock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=Face-Unlock&theme=transparent" /></a>
+<a href="https://github.com/IvLabs/Face-Unlock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=Face-Unlock&theme=transparent" /></a>&emsp;
 <a href="https://github.com/IvLabs/resources"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=resources&theme=transparent" /></a>
 </div>
 
 ### 🔬Research Work
 <div width="100%" align="left">
-<a href="https://github.com/IvLabs/os-nsmt/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=os-nsmt&theme=transparent" /></a>
+<a href="https://github.com/IvLabs/os-nsmt/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=os-nsmt&theme=transparent" /></a>&emsp;
 <a href="https://github.com/ABD-01/Coreset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Coreset&theme=transparent" /></a>
 </div>
 
 ### <img align="center" alt="Neo" width="30"  src="Neo.gif"/> Deep Learning
 <div width="100%" align="left">
-<a href="https://github.com/ABD-01/MNIST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=MNIST&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/MNIST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=MNIST&theme=transparent" /></a>&emsp;
 <a href="https://github.com/ABD-01/Siamese-NN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Siamese-NN&theme=transparent" /></a>
 </div>
 
 ### <img align="center" alt="RubiksCube" width="24" src="RubiksCube.png"/> Miscellaneous
 <div width="100%" align="left">
-<a href="https://github.com/ABD-01/Flask-Protobuf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Flask-Protobuf&theme=transparent" /></a>
+<a href="https://abd-01.github.io/Flask-Protobuf/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Flask-Protobuf&theme=transparent" /></a>&emsp;
 <a href="https://github.com/ABD-01/ros_pid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=ros_pid&theme=transparent" /></a>
 </div>
-
+<br>
 <div width="100%" align="left">
-<a href="https://github.com/ABD-01/log-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=log-analysis&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/log-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=log-analysis&theme=transparent" /></a>&emsp;
 <a href="https://github.com/ABD-01/py2048"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=py2048&theme=transparent" /></a>
 </div>
 
 ### <img width="24" src="https://img.icons8.com/color/24/android-os.png" alt="android-os"/> Android
 <div width="100%" align="left">
-<a href="https://github.com/ABD-01/Android-Speech-Controlled-Assistance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Android-Speech-Controlled-Assistance&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/Android-Speech-Controlled-Assistance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Android-Speech-Controlled-Assistance&theme=transparent" /></a>&emsp;
 <a href="https://github.com/ABD-01/Color-Reflex-Android-Studio-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Color-Reflex-Android-Studio-Project&theme=transparent" /></a>
 </div>
