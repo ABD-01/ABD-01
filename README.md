@@ -28,7 +28,7 @@ Coding with a passion for hardware – because great software extends beyond the
 - 🤖 I’m looking to collaborate on LLM based robot manipulation.
 - 🤔 I’m looking for help with MS application for Fall-25.
 - ⚡ Fun fact: You can try but cannot play Chrome Dino game in github readme.
-- 📫 How to reach me: 
+- <img src="letterbox.gif" width="20"/>  How to reach me: 
   - <a target="_blank" href="mailto:muhammed.abd.shaikh@gmail.com"><img align="left" alt="Gmail" width="24px" src="gmail.svg" />muhammed.abd.shaikh@gmail.com</a>
   - <a target="_blank" href="https://www.linkedin.com/in/muhammedabd/"><img align="left" alt="Gmail" width="24px" src="linkedin.svg" />linkedin.com/in/muhammedabd/</a>
 
@@ -39,35 +39,35 @@ Coding with a passion for hardware – because great software extends beyond the
 # Projects
 ### 🚀 Noteworthy Mention
 <div width="100%" align="left">
-<a href="https://github.com/IvLabs/Face-Unlock"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=Face-Unlock&theme=transparent" /></a>
-<a href="https://github.com/IvLabs/resources"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=resources&theme=transparent" /></a>
+<a href="https://github.com/IvLabs/Face-Unlock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=Face-Unlock&theme=transparent" /></a>
+<a href="https://github.com/IvLabs/resources"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=resources&theme=transparent" /></a>
 </div>
 
 ### 🔬Research Work
 <div width="100%" align="left">
-<a href="https://github.com/IvLabs/os-nsmt/"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=os-nsmt&theme=transparent" /></a>
-<a href="https://github.com/ABD-01/Coreset"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Coreset&theme=transparent" /></a>
+<a href="https://github.com/IvLabs/os-nsmt/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IvLabs&repo=os-nsmt&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/Coreset"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Coreset&theme=transparent" /></a>
 </div>
 
-### 🧩 Deep Learning
+### <img align="center" alt="Neo" width="30"  src="Neo.gif"/> Deep Learning
 <div width="100%" align="left">
-<a href="https://github.com/ABD-01/MNIST"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=MNIST&theme=transparent" /></a>
-<a href="https://github.com/ABD-01/Siamese-NN"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Siamese-NN&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/MNIST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=MNIST&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/Siamese-NN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Siamese-NN&theme=transparent" /></a>
 </div>
 
-### Miscellaneous
+### <img align="center" alt="RubiksCube" width="24" src="RubiksCube.png"/> Miscellaneous
 <div width="100%" align="left">
-<a href="https://github.com/ABD-01/Flask-Protobuf"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Flask-Protobuf&theme=transparent" /></a>
-<a href="https://github.com/ABD-01/ros_pid"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=ros_pid&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/Flask-Protobuf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Flask-Protobuf&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/ros_pid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=ros_pid&theme=transparent" /></a>
 </div>
 
 <div width="100%" align="left">
-<a href="https://github.com/ABD-01/log-analysis"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=log-analysis&theme=transparent" /></a>
-<a href="https://github.com/ABD-01/py2048"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=py2048&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/log-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=log-analysis&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/py2048"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=py2048&theme=transparent" /></a>
 </div>
 
-### Android
+### <img width="24" src="https://img.icons8.com/color/24/android-os.png" alt="android-os"/> Android
 <div width="100%" align="left">
-<a href="https://github.com/ABD-01/Android-Speech-Controlled-Assistance"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Android-Speech-Controlled-Assistance&theme=transparent" /></a>
-<a href="https://github.com/ABD-01/Color-Reflex-Android-Studio-Project"><img style="margin-right: 2%" src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Color-Reflex-Android-Studio-Project&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/Android-Speech-Controlled-Assistance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Android-Speech-Controlled-Assistance&theme=transparent" /></a>
+<a href="https://github.com/ABD-01/Color-Reflex-Android-Studio-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ABD-01&repo=Color-Reflex-Android-Studio-Project&theme=transparent" /></a>
 </div>
