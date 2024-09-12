@@ -26,7 +26,7 @@ Coding with a passion for hardware – because great software extends beyond the
 - 🎓 I’ve a degree in Electrical and Electronics from [Visvesvaraya National Institute of Technology](https://en.wikipedia.org/wiki/Visvesvaraya_National_Institute_of_Technology_Nagpur).
 - 🤝 I’ve spent most of my time in college at [IvLabs](https://www.ivlabs.in/), the AI and Robotics Lab.
 - 🤖 I’m looking to collaborate on LLM based robot manipulation.
-- 🤔 I’m looking for help with MS application for Fall-25.
+<!-- - 🤔 I’m looking for help with MS application for Fall-25. -->
 - ⚡ Fun fact: You can try but cannot play Chrome Dino game in github readme.
 - <img src="letterbox.gif" width="20"/>  How to reach me: 
   - <a target="_blank" href="mailto:muhammed.abd.shaikh@gmail.com"><img align="left" alt="Gmail" width="24px" src="gmail.svg" />muhammed.abd.shaikh@gmail.com</a>
