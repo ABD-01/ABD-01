@@ -9,7 +9,10 @@
 
 
 ## I am Muhammed Abdullah
+<!--
 #### I write programs, that transcends beyond the screen, bringing the metal to life.
+-->
+#### My code, like my life, has to mean something. It must serve. It must endure. But it must never be blind.
 
 <!--  
 Where code meets circuits, and software dances with hardware – because the thrill of programming is best felt when it moves beyond the screen. 
